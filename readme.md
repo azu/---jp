@@ -8,6 +8,8 @@
 npm install 消費税率jp
 ```
 
+FIXME : npmで日本語のパッケージ名publish出来ませんでした。
+
 ## Usage
 
 ``` js
