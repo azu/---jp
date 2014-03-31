@@ -1,21 +1,21 @@
 {
-    "name": "消費税率jp",
-    "description": "日本の消費税率を返します",
-    "version": "0.0.1",
-    "homepage": "https://github.com/azu/---jp/",
-    "repository": {
-        "url": "git://github.com/azu/---jp.git"
-    },
-    "main": "index.js",
-    "scripts": {
-        "test": "node test/index-test.js"
-    },
-    "directories": {
-        "test": "test/"
-    },
-    "author": "azu",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/azu/---jp/issues"
-    }
+  "name": "消費税率jp",
+  "description": "日本の消費税率を返します",
+  "version": "0.0.2",
+  "homepage": "https://github.com/azu/---jp/",
+  "repository": {
+    "url": "git://github.com/azu/---jp.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index-test.js"
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/---jp/issues"
+  }
 }
